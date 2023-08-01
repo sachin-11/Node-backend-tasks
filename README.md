@@ -30,16 +30,13 @@ const myArray = [1, 2, 3, 4, 5];
 const result = dataManipulation.sumArrayIntegers(myArray);
 console.log(result); // Output will be 15 (1 + 2 + 3 + 4 + 5)
 
-
-Task 3: Asynchronous File Handling
-Description
+## Task 3: Asynchronous File Handling
+### Description
 A Node.js script that reads a text file named "data.txt" asynchronously and counts the number of words in it. The script prints the total word count to the console.
 
-How to Run
+### How to Run
 Make sure you have Node.js installed on your machine.
 Place the script in the same directory as the "data.txt" file.
 Open a terminal or command prompt and navigate to the project folder.
 Run the script using the command: node script.js (or replace script.js with the filename of your script).
 The script will read "data.txt", count the number of words in it, and print the total word count to the console.
-Feel free to customize the README.md file further based on your project structure and requirements. You can add details on dependencies, usage examples, and any other relevant information to help users understand and use your code effectively.
-
